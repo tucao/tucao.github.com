@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[吐槽]]></title>
-  <link href="http://tucao.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Octopress | 吐槽]]></title>
+  <link href="http://tucao.github.io/blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://tucao.github.io/"/>
   <updated>2013-07-29T00:18:47+08:00</updated>
   <id>http://tucao.github.io/</id>
