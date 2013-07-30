@@ -6,8 +6,8 @@ comments: true
 categories: Octopress
 ---
 一直以来都想找一个合适的博客编写网站，试过csdn,iteye，都不满意。就在冲动准备租一个VPS用wordpress搭建自己
-的博客的时候，发现了Octopress。就是它了！免费得github托管，基于markdown的文本编写方式，可以使用自己喜欢的
-vim编辑器，随意定制自己喜欢的样式，丰富的第三方插件，Octopress真是专为IT程序猿而生！
+的博客的时候，发现了Octopress。就是它了！免费的github托管，基于markdown的文本编写方式，可以使用自己喜欢的
+文本编辑器，随意定制自己喜欢的样式，丰富的第三方插件，Octopress真是专为IT程序猿而生！
 
 首先是搭建环境，花了两天时间。因为没有ruby背景，幸好[Octopress](http://octopress.org   "Octopress官网") 
 的教程很完善，一步一步照做就可以了。这里说几点心得和注意事项：
