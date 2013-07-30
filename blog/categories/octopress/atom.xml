@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Octopress | 吐槽]]></title>
   <link href="http://tucao.github.io/blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://tucao.github.io/"/>
-  <updated>2013-07-30T20:37:14+08:00</updated>
+  <updated>2013-07-30T20:41:26+08:00</updated>
   <id>http://tucao.github.io/</id>
   <author>
     <name><![CDATA[Bigfish]]></name>
@@ -19,8 +19,8 @@
     <updated>2013-07-28T23:14:00+08:00</updated>
     <id>http://tucao.github.io/blog/2013/07/28/bloging-with-octopress</id>
     <content type="html"><![CDATA[<p>一直以来都想找一个合适的博客编写网站，试过csdn,iteye，都不满意。就在冲动准备租一个VPS用wordpress搭建自己
-的博客的时候，发现了Octopress。就是它了！免费得github托管，基于markdown的文本编写方式，可以使用自己喜欢的
-vim编辑器，随意定制自己喜欢的样式，丰富的第三方插件，Octopress真是专为IT程序猿而生！</p>
+的博客的时候，发现了Octopress。就是它了！免费的github托管，基于markdown的文本编写方式，可以使用自己喜欢的
+文本编辑器，随意定制自己喜欢的样式，丰富的第三方插件，Octopress真是专为IT程序猿而生！</p>
 
 <p>首先是搭建环境，花了两天时间。因为没有ruby背景，幸好<a href="http://octopress.org" title="Octopress官网">Octopress</a>
 的教程很完善，一步一步照做就可以了。这里说几点心得和注意事项：</p>
