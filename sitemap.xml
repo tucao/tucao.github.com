@@ -2,18 +2,22 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://tucao.github.io/blog/2013/07/28/bloging-with-octopress/</loc>
-        <lastmod>2013-07-30T20:40:52+08:00</lastmod>
+        <lastmod>2013-07-31T09:23:20+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://tucao.github.io/blog/2013/07/31/add-comment-to-your-octopress-blog/</loc>
+        <lastmod>2013-08-01T16:49:32+08:00</lastmod>
     </url>
     <url>
         <loc>http://tucao.github.io/blog/archives/</loc>
-        <lastmod>2013-07-30T20:40:52+08:00</lastmod>
+        <lastmod>2013-08-01T16:49:32+08:00</lastmod>
     </url>
     <url>
         <loc>http://tucao.github.io/</loc>
-        <lastmod>2013-07-30T20:40:52+08:00</lastmod>
+        <lastmod>2013-08-01T16:49:32+08:00</lastmod>
     </url>
     <url>
         <loc>http://tucao.github.io/robots.txt</loc>
-        <lastmod>2013-07-21T23:37:58+08:00</lastmod>
+        <lastmod>2013-07-31T09:23:20+08:00</lastmod>
     </url>
 </urlset>
